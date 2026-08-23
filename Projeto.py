@@ -274,6 +274,3 @@ while True:
     elif opcao == '0':
         print('Sistema encerrado.')
         break
-
-    else:
-        print('Opção inválida!')
